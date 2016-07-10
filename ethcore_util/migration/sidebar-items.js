@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Migration error."]],"fn":[["commit_batch","Commit a batch of writes to a database."]],"struct":[["Config","Migration config."],["Manager","Manages database migration."]],"trait":[["Migration","A generalized migration from the given db to a destination db."],["SimpleMigration","A simple migration over key-value pairs."]]});
